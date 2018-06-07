@@ -1,4 +1,4 @@
-from sy simport argv
+from sys import argv
 
 script, filename = argv
 
